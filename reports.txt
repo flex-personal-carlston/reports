@@ -4,7 +4,7 @@ bp-forecast-change-2026-11|BP Forecast Change|2026-10-16 15:11
 bp-over-under-2026-11-total|BP Over / Under (on shift)|2026-10-30 11:42
 bp-over-under-2026-11|BP Over / Under|2026-10-30 11:39
 bp-schedule-check-2026-11|BP Schedule Check|2026-10-16 15:13
-eod|BPO End-of-Day Report|2026-10-31 00:30
+eod|BPO End-of-Day Report|2026-11-01 00:30
 live-chat-bp-2026-10|Live Chat Hours Around Bill Pay - October 2026|2026-10-14 01:13
 telus-hours-2026-09|Telus Hours vs Zendesk - September 2026|2026-10-14 01:17
 telus-plan-vs-actual-2026-09|Telus Planned vs Actual - September 2026|2026-10-14 01:16
